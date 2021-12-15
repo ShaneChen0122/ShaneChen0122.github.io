@@ -2223,7 +2223,7 @@ input, select, textarea {
 		}
 
 			ul.labeled-icons li:first-child {
-				margin-top: 10em;
+				margin-top: 0em;
 			}
 
 			ul.labeled-icons li a {
