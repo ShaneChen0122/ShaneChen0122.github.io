@@ -1379,9 +1379,9 @@ $size-header-pad: 4em;
 				h1 {
 					font-size: 1.25em;
 
-					br {
+					/*br {
 						display: none;
-					}
+					}*/
 				}
 
 				> .inner {
@@ -1422,7 +1422,8 @@ $size-header-pad: 4em;
 
 		/* Basic */
 
-			h1, h2, h3, h4, h5, h6 {
+			/*h1,*/
+			 h2, h3, h4, h5, h6 {
 				br {
 					display: none;
 				}
@@ -1457,9 +1458,9 @@ $size-header-pad: 4em;
 				h1 {
 					font-size: 1.75em;
 
-					br {
+					/*br {
 						display: inline;
-					}
+					}*/
 				}
 			}
 
@@ -1610,9 +1611,9 @@ $size-header-pad: 4em;
 				padding: ($size-header-pad * 3) $size-header-pad;
 
 				h1 {
-					br {
+					/*br {
 						display: none;
-					}
+					}*/
 				}
 			}
 
