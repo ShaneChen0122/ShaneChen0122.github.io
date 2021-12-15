@@ -2216,14 +2216,14 @@ input, select, textarea {
 	}
 
 		ul.labeled-icons li {
-			line-height: 1.75em;
+			line-height: 10em;
 			margin: 10em 0 0 0;
-			padding-left: 2.25em;
+			padding-left: 10em;
 			position: relative;
 		}
 
 			ul.labeled-icons li:first-child {
-				margin-top: 0;
+				margin-top: 10em;
 			}
 
 			ul.labeled-icons li a {
