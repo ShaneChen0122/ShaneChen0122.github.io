@@ -2197,7 +2197,7 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			padding: 10em 10em 0 0;
+			padding: 2em 1em 0 0;
 		}
 
 			ul.icons li:last-child {
@@ -2205,7 +2205,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon:before {
-				font-size: 10em;
+				font-size: 1.5em;
 			}
 
 /* Labeled Icons */
